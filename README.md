@@ -23,7 +23,8 @@ To reproduce the environment and predictions:
 3. Place the provided data files (`train_test.csv`, `validation.csv`, `december_chart_inputs.csv`) inside a `data/` folder in the root directory.
 4. Run the main pipeline script to generate the prediction CSVs:
    python final_code.py
-5. (Optional) To verify the chart output using the provided scorer, run:
+5.  Some sections are commented out for fast execution. Reviewers can remove the '"""' quotes to see how the code was structured.    
+6. (Optional) To verify the chart output using the provided scorer, run:
    python score.py --predictions validation_predictions.csv --december-predictions data/december_chart_inputs.csv
 
 ## 👤 Author
