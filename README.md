@@ -7,7 +7,7 @@ This repository contains the Machine Learning project developed for the Freight 
 [**Click here to watch the 2-3 minute Loom Video Walkthrough**](https://www.loom.com/share/3c332eadabcb4fd0925fe061ab4fa014)
 
 ## 📁 Repository Structure
-* `predict.py`: The complete solution code containing data preprocessing, feature engineering, validation, and modeling.
+* `freight_rate.py`: The complete solution code containing data preprocessing, feature engineering, validation, and modeling.
 * `requirements.txt`: The exact dependencies needed to run the solution.
 * `validation_predictions.csv`: The final predictions containing exactly `load_id,predicted_rate` for the 12,000 loads.
 * `december_predictions.csv`: The predictions generated for the December chart inputs.
