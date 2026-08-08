@@ -17,7 +17,7 @@ This repository contains the Machine Learning project developed for the Freight 
 To reproduce the environment and predictions:
 
 1. Clone this repository:
-   git clone <your-repo-link>
+   git clone <https://github.com/gkmn/freight-rate-prediction.git>
 2. Install the required dependencies:
    python -m pip install -r requirements.txt
 3. Place the provided data files (`train_test.csv`, `validation.csv`, `december_chart_inputs.csv`) inside a `data/` folder in the root directory.
