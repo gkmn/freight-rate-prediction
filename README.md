@@ -3,9 +3,6 @@
 ## Overview
 This repository contains the Machine Learning project developed for the Freight Rate ML Assessment. The objective is to predict truckload freight rates based on historical data using data exploration, feature engineering, and a validated machine learning model.
 
-## 🎥 Video Presentation
-[**Click here to watch the 2-3 minute Loom Video Walkthrough**](https://www.loom.com/share/3c332eadabcb4fd0925fe061ab4fa014)
-
 ## 📁 Repository Structure
 * `freight_rate.py`: The complete solution code containing data preprocessing, feature engineering, validation, and modeling.
 * `requirements.txt`: The exact dependencies needed to run the solution.
